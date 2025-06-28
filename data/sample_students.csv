@@ -1,0 +1,4 @@
+Name,StudentID,Email,GitHubRepoURL
+Alice Johnson,CS2023001,alice@university.edu,https://github.com/microsoft/TypeScript-React-Starter
+Bob Smith,CS2023002,bob@university.edu,https://github.com/facebook/create-react-app
+Carol Davis,CS2023003,carol@university.edu,https://github.com/vitejs/vite
